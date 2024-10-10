@@ -37,10 +37,7 @@ The dataset includes the following key columns:
    - The top 3 rules were identified and analyzed to uncover the strongest product associations.
 
 ## Project Files
-- **megastore_dataset.csv**: The original dataset used for the analysis.
 - **Market_Basket_Analysis.ipynb**: Jupyter notebook containing the code for the entire process, including data cleaning, preparation, and Apriori algorithm implementation.
-- **top_3_rules.csv**: CSV file containing the top 3 association rules.
-- **README.md**: This document explaining the project.
 
 ## How to Run
 To run the analysis on your local machine:
